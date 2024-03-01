@@ -1,0 +1,64 @@
+/* General Body Styling */
+body {
+    font-family: 'Helvetica', sans-serif;
+    background-color: #F0F0F0;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+/* Header Styling */
+h1 {
+    color: #C8102E; /* Clippers Red */
+    margin-bottom: 10px;
+}
+
+/* List Items Styling */
+li {
+    margin: 10px 0;
+}
+
+/* Strong Tag Styling for emphasis */
+strong {
+    color: #C8102E; /* Clippers Blue */
+}
+
+/* Image Styling */
+img {
+    display: block;
+    margin-top: 10px;
+    max-width: 100%; /* Responsive images */
+    height: auto;
+}
+
+/* Section for player likes */
+h2 {
+    color: #C8102E; /* A softer blue for contrast */
+    margin-top: 20px;
+}
+
+/* Footer Styling */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
+
+/* Link Styling */
+a {
+    display: inline-block;
+    margin-top: 20px;
+    background-color: #C8102E;
+    color: #fff;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+a:hover {
+    background-color: #C8102E;
+}
