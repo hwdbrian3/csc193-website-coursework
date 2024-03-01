@@ -1,0 +1,40 @@
+/* Style for the body to include some padding */
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+}
+
+/* Style for the navigation bar */
+nav {
+    background-color: #cc2727; /* Gray background */
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav a {
+    color: #cc2727;
+    text-decoration: none;
+    padding: 10px 15px;
+    font-size: 18px;
+}
+
+/* Style for the header image */
+header img {
+    width: 100%; /* Make the image stretch to cover the full width */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Remove any default margins */
+}
+
+/* Style for the main content section */
+main {
+    padding: 20px;
+    text-align: center; /* Center the text */
+}
+
+/* Style for the footer */
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #cc2727; /* Light gray background */
+}
